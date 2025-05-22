@@ -7,3 +7,4 @@ langchain
 sentence-transformers
 torch
 protobuf==3.20.3
+pysqlite3-binary>=0.5.2
